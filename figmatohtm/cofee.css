@@ -1,0 +1,149 @@
+.main-bg{
+    background-image: url('asset/main-bg.png');
+    height: 990px;
+}
+.logo{
+    height: 60px;
+    width: 60px;
+}
+.loc-img{
+    height: 20px;
+    width: 20px;
+}
+.nav-list{
+    color: #FFF;
+font-family: Mulish;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+padding-top: 15px;
+    padding-left: 15px;
+}
+.nav{
+    padding: 40px 00px;
+}
+.starbucks-txt{
+    color: #09A16B;
+font-family: Mulish;
+font-size: 40px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+letter-spacing: 4px;
+}
+.middle-txt{
+    padding-top: 80px;
+}
+.sec-para{
+    color: #FFF;
+    font-family: Mulish;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; /* 100px */
+}
+.sec-para-bold{
+    color: #FFF;
+    font-family: Mulish;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 1000;
+    line-height: 100%;
+}
+.cart-img{
+    height: 20px;
+    width: 20px;
+}
+.btn-1{
+    border-radius: 50px;
+    background: #09A16B;
+    box-shadow: 5px 16px 20px 0px rgba(9, 161, 107, 0.20);
+    color: #fff;
+    width: 180px;
+    height: 45px;
+}
+.btn-2{
+    border-radius: 50px;
+    background: #FFF;
+    color: #0D2E30;
+    width: 180px;
+    height: 45px;
+}
+.slider-img{
+    width: 150px;
+    height: 150px;
+}
+.small-img{
+    padding-top: 50px;
+}
+.second-back{
+    width: 30%;
+    position: relative;
+    right: -70%;
+    top: -747px;
+}
+.coffe-mug {
+    width: 85%;
+    position: relative;
+    z-index: 9;
+    left: -25%;
+    top: 166px;
+}
+.benas-img{
+    position: relative;
+    width: 45%;
+    z-index: 10;
+    left: 9%;
+    top: -30px;
+}
+.heart-img{
+    width: 25%;
+    position: relative;
+    left: -10%;
+    z-index: 11;
+    top: -170px;
+}
+.fra{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    transform: rotate(-90deg);
+    text-align: end;
+    position: relative;
+    top: -1130px;
+    left: 35%;
+    font-size: 90px;
+    color: #fff;
+}
+.fra-1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    transform: rotate(-90deg);
+    text-align: end;
+    position: relative;
+    top: -1255px;
+    left: 42%;
+    font-size: 90px;
+    color: rosybrown
+}
+.left{
+    width: 20%;
+    position: relative;
+    z-index: 20;
+    top: 30%;
+    left: -25%;
+}
+.right{
+    width: 20%;
+    position: relative;
+    z-index: 20;
+    top: 17%;
+    left: 70%;
+}
+.animate__animated.animate__bounce {
+    --animate-duration: 2s;
+  }
